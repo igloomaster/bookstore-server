@@ -1,2 +1,3 @@
-# bookstore-server
-server
+# EasyBuy-Server
+
+Server Link: https://easybuyserver.herokuapp.com/
